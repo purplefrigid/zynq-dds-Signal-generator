@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Tue May 16 12:16:38 2023
+# Process ID: 4672
+# Current directory: C:/Users/zgnhz/Desktop/graduatedesign/dds/dds.runs/synth_1
+# Command line: vivado.exe -log DDS.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source DDS.tcl
+# Log file: C:/Users/zgnhz/Desktop/graduatedesign/dds/dds.runs/synth_1/DDS.vds
+# Journal file: C:/Users/zgnhz/Desktop/graduatedesign/dds/dds.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source DDS.tcl -notrace

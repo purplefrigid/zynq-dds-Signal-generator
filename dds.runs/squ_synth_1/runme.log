@@ -1,0 +1,13 @@
+
+*** Running vivado
+    with args -log squ.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source squ.tcl
+
+
+****** Vivado v2018.1 (64-bit)
+  **** SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+  **** IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+    ** Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+source squ.tcl -notrace
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP squ, cache-ID = 6e33d77a24596213.
+INFO: [Common 17-206] Exiting Vivado at Tue May 16 12:09:11 2023...
