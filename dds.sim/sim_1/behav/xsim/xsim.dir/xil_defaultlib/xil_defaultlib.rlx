@@ -1,0 +1,11 @@
+0.6
+2018.1
+Apr  4 2018
+19:30:32
+C:/Users/zgnhz/Desktop/graduatedesign/dds/dds.sim/sim_1/behav/xsim/glbl.v,1522801934,verilog,,,,glbl,,,,,,,,
+C:/Users/zgnhz/Desktop/graduatedesign/dds/dds.srcs/sim_1/new/test.v,1684991816,verilog,,,,test,,,../../../../dds.srcs/sources_1/ip/pll,,,,,
+C:/Users/zgnhz/Desktop/graduatedesign/dds/dds.srcs/sources_1/ip/pll/pll.v,1684180045,verilog,,C:/Users/zgnhz/Desktop/graduatedesign/dds/dds.srcs/sources_1/ip/squ/sim/squ.v,,pll,,,../../../../dds.srcs/sources_1/ip/pll,,,,,
+C:/Users/zgnhz/Desktop/graduatedesign/dds/dds.srcs/sources_1/ip/pll/pll_clk_wiz.v,1684180045,verilog,,C:/Users/zgnhz/Desktop/graduatedesign/dds/dds.srcs/sources_1/ip/pll/pll.v,,pll_clk_wiz,,,../../../../dds.srcs/sources_1/ip/pll,,,,,
+C:/Users/zgnhz/Desktop/graduatedesign/dds/dds.srcs/sources_1/ip/sin/sim/sin.v,1684179714,verilog,,C:/Users/zgnhz/Desktop/graduatedesign/dds/dds.srcs/sources_1/new/DDS.v,,sin,,,../../../../dds.srcs/sources_1/ip/pll,,,,,
+C:/Users/zgnhz/Desktop/graduatedesign/dds/dds.srcs/sources_1/ip/squ/sim/squ.v,1684146950,verilog,,C:/Users/zgnhz/Desktop/graduatedesign/dds/dds.srcs/sources_1/ip/sin/sim/sin.v,,squ,,,../../../../dds.srcs/sources_1/ip/pll,,,,,
+C:/Users/zgnhz/Desktop/graduatedesign/dds/dds.srcs/sources_1/new/DDS.v,1684299232,verilog,,C:/Users/zgnhz/Desktop/graduatedesign/dds/dds.srcs/sim_1/new/test.v,,DDS,,,../../../../dds.srcs/sources_1/ip/pll,,,,,

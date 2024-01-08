@@ -1,0 +1,26 @@
+Vivado Simulator 2018.1
+Copyright 1986-1999, 2001-2017 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2018.1/bin/unwrapped/win64.o/xelab.exe -wto 98a34c0ad57e4aaaa0450b8cbb8cf0e9 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L blk_mem_gen_v8_4_1 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot test_behav xil_defaultlib.test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module blk_mem_gen_v8_4_1.blk_mem_gen_v8_4_1_output_stage(...
+Compiling module blk_mem_gen_v8_4_1.blk_mem_gen_v8_4_1_softecc_outpu...
+Compiling module blk_mem_gen_v8_4_1.blk_mem_gen_v8_4_1_mem_module(C_...
+Compiling module blk_mem_gen_v8_4_1.blk_mem_gen_v8_4_1(C_FAMILY="zyn...
+Compiling module xil_defaultlib.sin
+Compiling module blk_mem_gen_v8_4_1.blk_mem_gen_v8_4_1_output_stage(...
+Compiling module blk_mem_gen_v8_4_1.blk_mem_gen_v8_4_1_mem_module(C_...
+Compiling module blk_mem_gen_v8_4_1.blk_mem_gen_v8_4_1(C_FAMILY="zyn...
+Compiling module xil_defaultlib.squ
+Compiling module unisims_ver.MMCME2_ADV(CLKFBOUT_MULT_F=20.0,...
+Compiling module unisims_ver.BUFG
+Compiling module xil_defaultlib.pll_clk_wiz
+Compiling module xil_defaultlib.pll
+Compiling module xil_defaultlib.DDS
+Compiling module xil_defaultlib.test
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot test_behav
